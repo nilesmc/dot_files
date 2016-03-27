@@ -1,0 +1,16 @@
+[user]
+  name = Niles McGiver
+  email = nilesvm@gmail.com
+[core]
+  editor = open -a 'Sublime Text'
+[alias]
+  br = branch
+  brm = branch --merged
+  brnm = branch --no-merged
+  cm = commit
+  co = checkout
+  df = diff
+  mg = merge
+  st = status
+  plr = pull --rebase
+  pho = push origin
